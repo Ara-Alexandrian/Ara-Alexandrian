@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @Ara-Alexandrian
-- 👀 radiotherapy plan evaluation 3d dicom hierarchy cdvh ddvh 
+- 👀 radiotherapy scripting; .py .ipynb
 - 🌱 C#, WSL2, Teraform, Docker
 - 💞️ anything
 - 📫 ara.n.alexandrian@gmail.com
