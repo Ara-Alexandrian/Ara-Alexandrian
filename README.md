@@ -1,66 +1,59 @@
-# Ara Alexandrian
-**Medical Physicist | Software Developer | Clinical Research Engineer**
+Ara Alexandrian, Ph.D.
+Medical Physicist | Clinical Research Engineer | Software Developer
+Mary Bird Perkins Cancer Center • Baton Rouge, Louisiana
+Overview
+I develop computational solutions for radiation oncology that bridge clinical practice with technological innovation. My work focuses on enhancing patient safety, optimizing treatment workflows, and advancing medical physics education through evidence-based software development and data-driven analysis.
+Current Research & Development
+Clinical Safety Systems
 
-*Mary Bird Perkins Cancer Center • Baton Rouge, Louisiana*
+Machine learning frameworks for automated incident analysis in radiation oncology
+Predictive analytics for workflow optimization and risk assessment
+Integration of large language models in clinical decision support systems
 
-## About
+Educational Technology
 
-Medical Physicist specializing in radiation oncology with a focus on computational solutions for clinical research and radiotherapy optimization. I develop software tools and analytical frameworks to enhance treatment planning, incident analysis, and clinical workflow efficiency in oncology settings.
+Comprehensive DICOM training platforms for medical physics residents
+Interactive educational tools for radiation therapy protocols
+Real-time learning assessment and competency tracking systems
 
-My work bridges the gap between medical physics theory and practical clinical applications, leveraging machine learning and data science to solve complex problems in radiation therapy and patient safety.
+Department Operations
 
-## Technical Expertise
+Live monitoring dashboards for radiation therapy equipment and workflows
+Automated reporting systems for quality assurance metrics
+Calendar and resource optimization analytics for clinical operations
 
-**Programming & Development**
-- Python (clinical data analysis, radiotherapy scripting, machine learning pipelines)
-- C# (healthcare software development, treatment planning integrations)
-- JavaScript/Svelte (clinical dashboard development)
+Technical Stack
+Clinical Computing
 
-**Infrastructure & Deployment**
-- Docker containerization for clinical applications
-- WSL2 development environments
-- CUDA acceleration for high-performance medical computations
+Python: Medical data analysis, machine learning pipelines, DICOM processing
+C#: Healthcare software integration, treatment planning system automation
+JavaScript/Svelte: Clinical dashboard development, real-time monitoring interfaces
 
-**Clinical Technology Stack**
-- DICOM data processing and analysis
-- ROILS (Radiation Oncology Incident Learning System) integration
-- Treatment planning system automation
-- Medical imaging and dose calculation algorithms
+Infrastructure & Performance
 
-## Current Projects
+Docker: Containerized clinical applications and deployment
+CUDA: GPU-accelerated medical computations and dose calculations
+WSL2: Cross-platform development for clinical environments
 
-**Clinical Incident Analysis Platform**
-Developing machine learning models for automated analysis and pattern recognition in radiation oncology incident reports, improving patient safety through predictive analytics and workflow optimization.
+Medical Physics Specializations
 
-**DICOM Educational Framework**
-Creating comprehensive educational materials and interactive tools for medical physics training in DICOM standards and radiotherapy data management.
+DICOM protocol implementation and optimization
+Treatment planning system automation and scripting
+Incident learning systems (ROILS) integration and analysis
+Quality assurance workflow development
 
-**Department Operations Dashboard**
-Building real-time monitoring and reporting systems for radiation therapy department operations, equipment tracking, and quality assurance workflows.
+Professional Focus
+My research addresses critical challenges in modern radiation oncology through computational innovation. I specialize in developing automated solutions that improve clinical efficiency while maintaining the highest standards of patient safety and treatment quality.
+Current investigations include leveraging machine learning for predictive incident analysis, creating scalable educational platforms for medical physics training, and building integrated clinical workflow systems that enhance both productivity and care quality.
+Selected Publications
 
-## Professional Focus
+Alexandrian, A., et al. "Accuracy of Dose-Volume Metric Calculation for Small-Volume Radiosurgery Targets." International Journal of Medical Physics Research and Practice, 2020.
+Alexandrian, A., et al. "An Open-Source Tool to Visualize Potential Cone Collisions While Planning SRS cases." Journal of Applied Clinical Medical Physics, 2020.
+Alexandrian, A., et al. "Incorporating Biological Modeling Into Patient-Specific Plan Verification." Journal of Applied Clinical Medical Physics, 2020.
 
-I'm passionate about advancing patient care through technology innovation in medical physics. My work involves:
+Connect
+Professional: ara.n.alexandrian@gmail.com
+LinkedIn: Ara Alexandrian
+Institution: Mary Bird Perkins Cancer Center
 
-- Developing automated solutions for radiation therapy quality assurance
-- Implementing data-driven approaches to clinical decision support
-- Creating educational tools for medical physics training
-- Building integrated systems for improved clinical workflow efficiency
-
-## Collaboration Interests
-
-Open to collaborating on projects involving:
-- Medical physics software development and automation
-- Clinical research data analysis and visualization
-- Healthcare technology integration and optimization
-- Educational technology for radiation oncology training
-
-## Connect
-
-- **Email:** [ara.n.alexandrian@gmail.com](mailto:ara.n.alexandrian@gmail.com)
-- **LinkedIn:** [Ara Alexandrian](https://www.linkedin.com/in/ara-alexandrian)
-- **Institution:** Mary Bird Perkins Cancer Center
-
----
-
-*Advancing radiation oncology through computational innovation and evidence-based clinical solutions.*
+Advancing radiation oncology through computational innovation and clinical excellence.
