@@ -1,35 +1,66 @@
-### Salutations, Digital Nomad! 👋 I'm Ara Alexandrian
+# Ara Alexandrian
+**Medical Physicist | Software Developer | Clinical Research Engineer**
 
-By day, I navigate the labyrinthine realms of radiation oncology as a Medical Physicist. By nightfall, I transmute into a code alchemist, forging scripts to decipher the arcane in clinical research. Amidst the known and the uncharted, I venture into radiotherapy scripting, with eyes set on the elusive horizons of tech unknown.
+*Mary Bird Perkins Cancer Center • Baton Rouge, Louisiana*
 
-🛠 **Current Arsenal (Tech Stack)**  
-- **Scripting Sorcery (Programming Languages):** 
-  - Python (.py, .ipynb) – My cipher for radiotherapy enigmas and data realms
-  - C# – The chisel for software sculpting
-- **Virtual Vessels (Containerization & Virtualization):** 
-  - Docker – The crucible for concocting container brews
-  - WSL2 – The bridge across the chasm betwixt Windows and Linux
-- **Data Alchemy (Data Science & Machine Learning):** 
-  - A blend of libraries and frameworks – Heeding the call of medical physics
-- **Parallel Potency (High-Performance Computing):** 
-  - CUDA 11/12 – Channeling the tempest of parallel computation
+## About
 
-🔬 **Current Endeavours (Projects)**
-- Unveiling the obscured in ROILS incident analysis through the lens of Machine Learning Models (LLM).
-- Exploring the nexus of LLM integrations in clinical research, delving into the potential for automated insights and enhanced decision-making.
-- [Venture forth... (More about my projects)](https://github.com/Ara-Alexandrian?tab=repositories)
+Medical Physicist specializing in radiation oncology with a focus on computational solutions for clinical research and radiotherapy optimization. I develop software tools and analytical frameworks to enhance treatment planning, incident analysis, and clinical workflow efficiency in oncology settings.
 
+My work bridges the gap between medical physics theory and practical clinical applications, leveraging machine learning and data science to solve complex problems in radiation therapy and patient safety.
 
-💡 **Open Horizons (I'm open to)**
-- Forging alliances on quests profound in radiotherapy, oncology, or medical physics.
-- Exchanging blades of thought on avant-garde approaches to clinical and theoretical enigmas in radiation oncology.
+## Technical Expertise
 
-📬 **Connect Beyond The Veil (Get in Touch)**
-- Email: ara.n.alexandrian@gmail.com
-- LinkedIn: [Ara Alexandrian](https://www.linkedin.com/in/ara-alexandrian)
-- GitHub: [Ara-Alexandrian](https://github.com/Ara-Alexandrian)
+**Programming & Development**
+- Python (clinical data analysis, radiotherapy scripting, machine learning pipelines)
+- C# (healthcare software development, treatment planning integrations)
+- JavaScript/Svelte (clinical dashboard development)
+
+**Infrastructure & Deployment**
+- Docker containerization for clinical applications
+- WSL2 development environments
+- CUDA acceleration for high-performance medical computations
+
+**Clinical Technology Stack**
+- DICOM data processing and analysis
+- ROILS (Radiation Oncology Incident Learning System) integration
+- Treatment planning system automation
+- Medical imaging and dose calculation algorithms
+
+## Current Projects
+
+**Clinical Incident Analysis Platform**
+Developing machine learning models for automated analysis and pattern recognition in radiation oncology incident reports, improving patient safety through predictive analytics and workflow optimization.
+
+**DICOM Educational Framework**
+Creating comprehensive educational materials and interactive tools for medical physics training in DICOM standards and radiotherapy data management.
+
+**Department Operations Dashboard**
+Building real-time monitoring and reporting systems for radiation therapy department operations, equipment tracking, and quality assurance workflows.
+
+## Professional Focus
+
+I'm passionate about advancing patient care through technology innovation in medical physics. My work involves:
+
+- Developing automated solutions for radiation therapy quality assurance
+- Implementing data-driven approaches to clinical decision support
+- Creating educational tools for medical physics training
+- Building integrated systems for improved clinical workflow efficiency
+
+## Collaboration Interests
+
+Open to collaborating on projects involving:
+- Medical physics software development and automation
+- Clinical research data analysis and visualization
+- Healthcare technology integration and optimization
+- Educational technology for radiation oncology training
+
+## Connect
+
+- **Email:** [ara.n.alexandrian@gmail.com](mailto:ara.n.alexandrian@gmail.com)
+- **LinkedIn:** [Ara Alexandrian](https://www.linkedin.com/in/ara-alexandrian)
+- **Institution:** Mary Bird Perkins Cancer Center
 
 ---
 
-_✨ This repository is a gateway, its `README.md` a compass to my digital dominions on GitHub. Traverse through my [repository landscapes](https://github.com/Ara-Alexandrian?tab=repositories)._  
-_Preview the narrative on this scroll by clicking the Preview link above._
+*Advancing radiation oncology through computational innovation and evidence-based clinical solutions.*
