@@ -123,7 +123,7 @@ Self-hosted bullet journal system integrating Obsidian, Claude AI, and automated
 <br>
 
 ### ![Health](https://img.shields.io/badge/Health-Tracking-ff69b4?style=flat-square&logo=Fitbit&logoColor=white) [VCS-Tracker](https://github.com/Ara-Alexandrian/VCS-tracker)
-Modular dashboard tracking Vyvanse therapeutic effectiveness using pharmacokinetic modeling (Gaussian/Sigmoid curve fitting). Integrates Oura Ring biometrics for sleep analysis and correlates caffeine consumption with therapeutic window timing.
+Modular dashboard for tracking medication therapeutic effectiveness using pharmacokinetic modeling (Gaussian/Sigmoid curve fitting). Integrates Oura Ring biometrics for sleep analysis and correlates lifestyle factors with therapeutic window timing.
 
 **Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
