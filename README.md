@@ -12,10 +12,24 @@ Building software tools for radiation oncology operations, safety systems, and m
 
 ## 💻 Technical Stack
 
-**Languages:** Python, JavaScript/Node.js, C#
-**Frameworks:** Streamlit, Flask, Panel, SvelteKit, Express
-**Databases:** PostgreSQL, SQLite, MongoDB, Redis
-**Infrastructure:** Docker, WSL2, Git
+### Languages & Frameworks
+```
+Python          ████████████████████░░   Clinical tools, dashboards, data analysis
+JavaScript/Node ████████████░░░░░░░░░░   Web apps, AI frameworks, collaboration tools
+Mermaid         ███░░░░░░░░░░░░░░░░░░░   Workflow documentation
+C#              ██░░░░░░░░░░░░░░░░░░░░   TPS scripting (legacy)
+```
+
+### Project Types
+```
+Clinical Tools     ████████████░░░░░░░░   Equipment tracking, incident analysis, QR systems
+AI Frameworks      ████████░░░░░░░░░░░░   Cerebro-Stack, workflow collaboration
+Personal Health    ████░░░░░░░░░░░░░░░░   VCS-Tracker, Cerebro-BuJo
+Education          ███░░░░░░░░░░░░░░░░░   DICOM workshops, workflow documentation
+Analytics          ██░░░░░░░░░░░░░░░░░░   Calendar analysis, scheduling tools
+```
+
+**Core Stack:** Python (Streamlit, Flask, Panel), Node.js (Express, SvelteKit), PostgreSQL, SQLite, MongoDB, Redis, Docker
 
 ---
 
