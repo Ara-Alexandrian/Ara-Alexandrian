@@ -22,11 +22,11 @@ C#              ██░░░░░░░░░░░░░░░░░░░�
 
 ### Project Types
 ```
-Clinical Tools     ████████████░░░░░░░░   Equipment tracking, incident analysis, QR systems
+Clinical Tools     ██████████████░░░░░░   Equipment tracking, incident analysis, brachytherapy
 AI Frameworks      ████████░░░░░░░░░░░░   Cerebro-Stack, workflow collaboration
 Personal Health    ████░░░░░░░░░░░░░░░░   VCS-Tracker, Cerebro-BuJo
 Education          ███░░░░░░░░░░░░░░░░░   DICOM workshops, workflow documentation
-Analytics          ██░░░░░░░░░░░░░░░░░░   Calendar analysis, scheduling tools
+Analytics          ████░░░░░░░░░░░░░░░░   Calendar analysis, GK scheduling, Outlook tools
 ```
 
 **Core Stack:** Python (Streamlit, Flask, Panel), Node.js (Express, SvelteKit), PostgreSQL, SQLite, MongoDB, Redis, Docker
@@ -54,6 +54,16 @@ Equipment management system for medical physics departments using QR code techno
 Generates branded QR codes with Mary Bird Perkins logo for equipment labeling. Integrates manufacturer, model, and serial number information while maintaining scannability. Supports batch generation.
 
 **Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### ![Clinical](https://img.shields.io/badge/Clinical-Brachytherapy-purple?style=flat-square&logo=Target&logoColor=white) [BrachyD2ccEval](https://github.com/Ara-Alexandrian/BrachyD2ccEval)
+Automated HDR brachytherapy plan evaluation tool. Processes DICOM files to calculate D0.1cc, D1cc, D2cc metrics, BED/EQD2, and evaluates against EMBRACE II constraints. Includes EBRT integration, multi-fraction dose accumulation, and interactive Streamlit GUI.
+
+**Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### ![Analytics](https://img.shields.io/badge/Analytics-Scheduling-teal?style=flat-square&logo=MicrosoftOutlook&logoColor=white) [Outlook-Extractor](https://github.com/Ara-Alexandrian/Outlook-Extractor)
+Flask dashboard for extracting and analyzing Post GK (Gamma Knife) procedure data from Outlook calendars. Features real-time Outlook integration, smart event parsing, physicist workload tracking, and interactive filtering.
+
+**Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 </details>
 
