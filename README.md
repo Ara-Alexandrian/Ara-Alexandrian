@@ -128,10 +128,17 @@ SHIP THE WHOLE STACK
 
 <img src="./assets/section-rule.svg" width="100%" alt="" />
 
-- **[Automated Analysis of Radiation Oncology Incident Reports Using Large Language Models: A Multi-Institutional Technical Validation Study](https://www.redjournal.org/article/S0360-3016(26)00718-2/fulltext)** — *International Journal of Radiation Oncology · Biology · Physics*, 2026
-- **Accuracy of Dose-Volume Metric Calculation for Small-Volume Radiosurgery Targets** — *Medical Physics*, 2020
-- **An Open-Source Tool to Visualize Potential Cone Collisions While Planning SRS Cases** — *Journal of Applied Clinical Medical Physics*, 2020
-- **Incorporating Biological Modeling Into Patient-Specific Plan Verification** — *Journal of Applied Clinical Medical Physics*, 2020
+| Year | Peer-reviewed publication |
+| :---: | :--- |
+| `2026` | **[Multi-TPS institutional surveillance of VMAT plan complexity and PSQA results over three years](https://doi.org/10.1002/acm2.70691)**<br><sub>*Journal of Applied Clinical Medical Physics*</sub> |
+| `2026` | **[Automated Analysis of Radiation Oncology Incident Reports Using Large Language Models: A Multi-Institutional Technical Validation Study](https://doi.org/10.1016/j.ijrobp.2026.05.003)**<br><sub>*International Journal of Radiation Oncology · Biology · Physics*</sub> |
+| `2026` | **[Developing a web-based dashboard for adaptive radiotherapy workflows](https://doi.org/10.1002/acm2.70546)**<br><sub>*Journal of Applied Clinical Medical Physics*</sub> |
+| `2025` | **[Characterization of Cutaneous Radiation Syndrome in a Mouse Model Using &#91;¹⁸F&#93;F-Fluorodeoxyglucose Positron Emission Tomography](https://doi.org/10.1097/HP.0000000000001947)**<br><sub>*Health Physics*</sub> |
+| `2021` | **[Accuracy of dose-volume metric calculation for small-volume radiosurgery targets](https://doi.org/10.1002/mp.14645)**<br><sub>*Medical Physics*</sub> |
+| `2020` | **[An open-source tool to visualize potential cone collisions while planning SRS cases](https://doi.org/10.1002/acm2.12998)**<br><sub>*Journal of Applied Clinical Medical Physics*</sub> |
+| `2020` | **[Incorporating biological modeling into patient-specific plan verification](https://doi.org/10.1002/acm2.12831)**<br><sub>*Journal of Applied Clinical Medical Physics*</sub> |
+| `2020` | **[Characterizing a deformable registration algorithm for surface-guided breast radiotherapy](https://doi.org/10.1002/mp.13921)**<br><sub>*Medical Physics*</sub> |
+| `2018` | **[Comparative performance evaluation of a new a-Si EPID that exceeds quad high-definition resolution](https://pubmed.ncbi.nlm.nih.gov/29745100/)**<br><sub>*Journal of B.U.ON.*</sub> |
 
 ---
 
