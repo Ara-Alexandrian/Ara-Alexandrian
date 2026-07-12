@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Ara Alexandrian — medical physicist and full-stack systems builder" />
+<img src="./assets/profile-header.svg" width="100%" alt="Ara Alexandrian — medical physicist working across software, systems, and operations" />
 
 ### I build at the collision point of physics, software, and operations.
 
@@ -16,7 +16,7 @@ Not just models. Not just interfaces. The whole chain—from a clinical question
 physics → workflow → software → infrastructure → feedback
 ```
 
-I’m a medical physicist who builds systems. My work moves between treatment-planning research, clinical operations, full-stack products, infrastructure, data pipelines, technical education, and automation. The common thread is not a framework or a language—it is learning the whole system well enough to change it without losing the plot.
+I’m a medical physicist who builds software and connects systems. My work moves between treatment-planning research, clinical operations, full-stack products, infrastructure, data pipelines, technical education, and automation. The common thread is not a framework or a language—it is learning the whole system well enough to change it without losing the plot.
 
 ## Repository telemetry
 
@@ -24,7 +24,9 @@ I’m a medical physicist who builds systems. My work moves between treatment-pl
 | :---: | :---: | :---: | :---: |
 | **portfolio depth** | **current motion** | **polyglot range** | **public surface** |
 
-<sub>Snapshot from the full repository portfolio, July 2026. Private work is counted here but described below only at a portfolio-safe level.</sub>
+<sub>Point-in-time snapshot of the GitHub portfolio, July 2026. It measures repository activity—not the current scale of production systems.</sub>
+
+> **Repository lifecycle:** GitHub is the lab notebook and incubation layer, not the production inventory. Clinical projects may appear here as historical snapshots; mature work often moves into institutional Git and continues evolving outside this profile.
 
 ## Operating range
 
@@ -44,17 +46,17 @@ SvelteKit, Flask, Streamlit, PostgreSQL, Redis, Docker, Nginx, Azure, Unraid, Wi
 
 Agent orchestration, progressive tool discovery, persistent remote coding sessions, browser automation, document pipelines, and model benchmarking across local inference stacks. Automation is a force multiplier; architecture, constraints, and operational ownership are still the job.
 
-## Systems in the wild
+## Representative problem spaces
 
 ### GearVue · clinical equipment operations
 
-A deployed equipment-management system spanning **137 medical-physics assets**, QR lookup, calibration status, transport requests, maintenance tickets, role-based access, and audit-ready reporting. The product includes the application, container deployment, reverse proxy, SSL, and operating workflow.
+Clinical equipment operations across distributed sites: asset discovery, QR lookup, calibration status, transport requests, maintenance workflows, role-aware access, and audit-ready reporting. The repository captures the system’s incubation history; the operational system continues beyond it.
 
 `SvelteKit` · `TypeScript` · `Docker` · `Nginx` · `Azure`
 
 ### Celeris · scheduling as a data system
 
-A hybrid Windows-and-container platform that turns Outlook and PDF schedules into structured medical-physics operations data. It combines event classification, personnel and coverage models, encrypted sensitive fields, analytics, and an always-on read surface backed by PostgreSQL.
+A scheduling and operations platform that turns calendars and planning documents into structured medical-physics data. It connects event classification, personnel and coverage models, protected data handling, analytics, and multiple access surfaces.
 
 `Python` · `Flask` · `PostgreSQL` · `Docker` · `Windows COM`
 
