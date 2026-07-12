@@ -128,6 +128,7 @@ SHIP THE WHOLE STACK
 
 <img src="./assets/section-rule.svg" width="100%" alt="" />
 
+- **[Automated Analysis of Radiation Oncology Incident Reports Using Large Language Models: A Multi-Institutional Technical Validation Study](https://www.redjournal.org/article/S0360-3016(26)00718-2/fulltext)** — *International Journal of Radiation Oncology · Biology · Physics*, 2026
 - **Accuracy of Dose-Volume Metric Calculation for Small-Volume Radiosurgery Targets** — *Medical Physics*, 2020
 - **An Open-Source Tool to Visualize Potential Cone Collisions While Planning SRS Cases** — *Journal of Applied Clinical Medical Physics*, 2020
 - **Incorporating Biological Modeling Into Patient-Specific Plan Verification** — *Journal of Applied Clinical Medical Physics*, 2020
