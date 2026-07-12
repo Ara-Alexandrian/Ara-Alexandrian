@@ -1,310 +1,151 @@
 <div align="center">
 
-# Dr. Ara Alexandrian
+<img src="./assets/profile-header.svg" width="100%" alt="Ara Alexandrian, medical physicist working across software, systems, and operations" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Medical+Physicist;Software+Developer;Radiation+Oncology+Tools" alt="Typing SVG" />
+### I build at the collision point of physics, software, and operations.
 
-<br>
+Not just models. Not just interfaces. The whole chain, from a clinical question to the thing that survives production.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ara-alexandrian/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ara.n.alexandrian@gmail.com)
-[![Institution](https://img.shields.io/badge/Mary_Bird_Perkins-00457C?style=for-the-badge&logo=hospital&logoColor=white)](https://marybird.org/)
-
-<br>
-
-```
-Building software tools for radiation oncology operations, safety systems, and medical physics education.
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ara-alexandrian/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-B7FF3C?style=flat-square&logo=gmail&logoColor=111111)](mailto:ara.n.alexandrian@gmail.com)
+[![Mary Bird Perkins](https://img.shields.io/badge/Mary_Bird_Perkins-Medical_Physics-18181B?style=flat-square)](https://marybird.org/)
 
 </div>
+
+```text
+physics → workflow → software → infrastructure → feedback
+```
+
+I’m a medical physicist who builds software and connects systems. My work moves between treatment-planning research, clinical operations, full-stack products, infrastructure, data pipelines, technical education, and automation. The common thread is not a framework or a language. It is learning the whole system well enough to change it without losing the plot.
+
+## Repository telemetry
+
+<img src="./assets/section-rule.svg" width="100%" alt="" />
+
+| `REPOSITORIES` | `ACTIVE / 90D` | `PRIMARY LANGUAGES` | `PUBLIC / PRIVATE` |
+| :---: | :---: | :---: | :---: |
+| **67** | **29** | **10** | **7 / 60** |
+
+<sub>Point-in-time snapshot of the GitHub portfolio, July 2026. It measures repository activity, not the current scale of production systems.</sub>
+
+> **Repository lifecycle:** GitHub is the lab notebook and incubation layer, not the production inventory. Clinical projects may appear here as historical snapshots; mature work often moves into institutional Git and continues evolving outside this profile.
+
+## Operating range
+
+<img src="./assets/section-rule.svg" width="100%" alt="" />
+
+### 01 / Clinical systems
+
+I build tools around the unglamorous parts of medicine that still have to work: equipment lifecycle, calibration, scheduling, coverage, QA, incident evaluation, and handoffs. These systems sit close to real operations, so traceability and failure behavior matter more than demo polish.
+
+### 02 / Imaging & treatment-planning research
+
+DICOM processing, CT artifact characterization, dose-volume analysis, plan evaluation, brachytherapy, radiosurgery, electron simulation, and open treatment-planning ecosystems. The code ranges from one-off scientific probes to reusable research applications.
+
+### 03 / Products & infrastructure
+
+SvelteKit, Flask, Streamlit, PostgreSQL, Redis, Docker, Nginx, Azure, Unraid, Windows integration, encrypted data, queues, workers, reverse proxies, and deployment runbooks. I care about the seam between application code and the environment that has to keep it alive.
+
+### 04 / Machine-assisted work
+
+Agent orchestration, progressive tool discovery, persistent remote coding sessions, browser automation, document pipelines, and model benchmarking across local inference stacks. Automation is a force multiplier; architecture, constraints, and operational ownership are still the job.
+
+## Representative problem spaces
+
+<img src="./assets/section-rule.svg" width="100%" alt="" />
+
+### GearVue · clinical equipment operations
+
+Clinical equipment operations across distributed sites: asset discovery, QR lookup, calibration status, transport requests, maintenance workflows, role-aware access, and audit-ready reporting. The repository captures the system’s incubation history; the operational system continues beyond it.
+
+`SvelteKit` · `TypeScript` · `Docker` · `Nginx` · `Azure`
+
+### Celeris · scheduling as a data system
+
+A scheduling and operations platform that turns calendars and planning documents into structured medical-physics data. It connects event classification, personnel and coverage models, protected data handling, analytics, and multiple access surfaces.
+
+`Python` · `Flask` · `PostgreSQL` · `Docker` · `Windows COM`
+
+### Incident learning & plan evaluation
+
+Multi-institution incident review, standardized evaluator workflows, reliability analysis, dose-volume scoring, and comparative plan analytics. These projects connect clinical vocabulary to reproducible data structures and usable review interfaces.
+
+`Python` · `Streamlit` · `PostgreSQL` · `Statistics`
+
+### Clinical knowledge production
+
+Gamma Knife workflow systems, coverage models, handoff artifacts, technical courseware, generated slide decks, and interactive DICOM teaching tools. Documentation is treated as an engineered surface: versioned, generated, verified, and built for circulation.
+
+`Python` · `Markdown` · `Mermaid` · `LaTeX` · `Office automation`
+
+### Agent & compute infrastructure
+
+Custom tooling for persistent mobile coding sessions, MCP tool compression and discovery, browser automation, plugin distribution, multi-device orchestration, and LLM benchmarking across clustered local inference frameworks. The interesting part is not invoking a model. It is designing the system around it.
+
+`Shell` · `Python` · `TypeScript` · `MCP` · `DGX` · `Docker`
+
+## Public signals
+
+<img src="./assets/section-rule.svg" width="100%" alt="" />
+
+### [CT Metal Artifact Characterization](https://github.com/Ara-Alexandrian/DO_DD)
+
+Multi-planar CT artifact detection, adaptive segmentation, visual quality checks, and research-ready exports for dataset development.
+
+### [Radiotherapy DICOM Workshop](https://github.com/Ara-Alexandrian/DICOM-Lecture-MBP_06162026)
+
+A practical workshop that moves from RT DICOM concepts into interactive notebooks and working viewer applications.
+
+### [pyRadPlan](https://github.com/Ara-Alexandrian/pyRadPlan) / [matRad](https://github.com/Ara-Alexandrian/matRad)
+
+Work connected to open-source Python and MATLAB treatment-planning ecosystems for research and education.
+
+### [AzerothCore experiments](https://github.com/Ara-Alexandrian/mod-playerbots-LLM)
+
+Because sometimes the test bench is a world populated by thousands of simulated players. Game AI, local models, server infrastructure, and the useful kind of chaos.
+
+## Off-axis experiments
+
+<img src="./assets/section-rule.svg" width="100%" alt="" />
+
+The portfolio also wanders deliberately into personal finance scenario engines, paper-mail classification, biometrics and pharmacokinetic modeling, smart-home systems, personal command centers, manuscript review, and local knowledge infrastructure. Different subject matter; same instinct: map the messy system, make it legible, then build leverage into it.
+
+## Working method
+
+<img src="./assets/section-rule.svg" width="100%" alt="" />
+
+```text
+OBSERVE THE SYSTEM
+MODEL THE CONSTRAINTS
+INSTRUMENT THE FAILURE MODES
+AUTOMATE THE BORING PARTS
+SHIP THE WHOLE STACK
+```
+
+> **Fast hands are useful. A long horizon is non-negotiable.**
+
+## Publications
+
+<img src="./assets/section-rule.svg" width="100%" alt="" />
+
+| Year | Peer-reviewed publication |
+| :---: | :--- |
+| `2026` | **[Multi-TPS institutional surveillance of VMAT plan complexity and PSQA results over three years](https://doi.org/10.1002/acm2.70691)**<br><sub>*Journal of Applied Clinical Medical Physics*</sub> |
+| `2026` | **[Automated Analysis of Radiation Oncology Incident Reports Using Large Language Models: A Multi-Institutional Technical Validation Study](https://doi.org/10.1016/j.ijrobp.2026.05.003)**<br><sub>*International Journal of Radiation Oncology · Biology · Physics*</sub> |
+| `2026` | **[Developing a web-based dashboard for adaptive radiotherapy workflows](https://doi.org/10.1002/acm2.70546)**<br><sub>*Journal of Applied Clinical Medical Physics*</sub> |
+| `2025` | **[Characterization of Cutaneous Radiation Syndrome in a Mouse Model Using &#91;¹⁸F&#93;F-Fluorodeoxyglucose Positron Emission Tomography](https://doi.org/10.1097/HP.0000000000001947)**<br><sub>*Health Physics*</sub> |
+| `2021` | **[Accuracy of dose-volume metric calculation for small-volume radiosurgery targets](https://doi.org/10.1002/mp.14645)**<br><sub>*Medical Physics*</sub> |
+| `2020` | **[An open-source tool to visualize potential cone collisions while planning SRS cases](https://doi.org/10.1002/acm2.12998)**<br><sub>*Journal of Applied Clinical Medical Physics*</sub> |
+| `2020` | **[Incorporating biological modeling into patient-specific plan verification](https://doi.org/10.1002/acm2.12831)**<br><sub>*Journal of Applied Clinical Medical Physics*</sub> |
+| `2020` | **[Characterizing a deformable registration algorithm for surface-guided breast radiotherapy](https://doi.org/10.1002/mp.13921)**<br><sub>*Medical Physics*</sub> |
+| `2018` | **[Comparative performance evaluation of a new a-Si EPID that exceeds quad high-definition resolution](https://pubmed.ncbi.nlm.nih.gov/29745100/)**<br><sub>*Journal of B.U.ON.*</sub> |
 
 ---
 
 <div align="center">
 
-## `{ Tech Stack }`
+`DOMAIN DEPTH` **×** `OPERATIONAL RANGE` **×** `CONTROLLED CHAOS`
 
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">Languages</h3>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-
-</div>
-
-```
-Python          ████████████████████░░  90%
-JavaScript/Node ████████████░░░░░░░░░░  55%
-Mermaid         ███░░░░░░░░░░░░░░░░░░░  15%
-C#              ██░░░░░░░░░░░░░░░░░░░░  10%
-```
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">Frameworks & Tools</h3>
-
-<div align="center">
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-```
-Clinical Tools  ██████████████░░░░░░░░  70%
-AI Frameworks   ████████░░░░░░░░░░░░░░  40%
-Analytics       ████░░░░░░░░░░░░░░░░░░  20%
-Education       ███░░░░░░░░░░░░░░░░░░░  15%
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**Databases:** `PostgreSQL` `SQLite` `MongoDB` `Redis`
-
-</div>
-
----
-
-<div align="center">
-
-## `{ Clinical Projects }`
-
-</div>
-
-<details open>
-<summary><h3><img src="https://img.shields.io/badge/‎-Safety_&_Operations-0077B5?style=flat-square&logo=shieldsdotio&logoColor=white" height="22"/></h3></summary>
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-#### [![Safety](https://img.shields.io/badge/Safety-Analysis-dc2626?style=flat-square)](https://github.com/Ara-Alexandrian/iROILS-Evaluations) iROILS-Evaluations
-
-Multi-institution incident tracking for radiation therapy. Evaluator assignment, standardized feedback, inter-rater reliability metrics.
-
-`Python` `PostgreSQL` `Redis`
-
-</td>
-<td width="50%">
-
-#### [![Equipment](https://img.shields.io/badge/Clinical-Equipment-2563eb?style=flat-square)](https://github.com/Ara-Alexandrian/equipment-tracker) GearVue
-
-QR-based equipment management. Location tracking, calibration reminders, mobile-friendly zero-login access.
-
-`Python` `Flask` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### [![Brachytherapy](https://img.shields.io/badge/Clinical-Brachytherapy-7c3aed?style=flat-square)](https://github.com/Ara-Alexandrian/BrachyD2ccEval) BrachyD2ccEval
-
-HDR brachytherapy plan evaluation. D0.1cc/D1cc/D2cc metrics, BED/EQD2 calculations, EMBRACE II constraints.
-
-`Python` `Streamlit` `Docker`
-
-</td>
-<td width="50%">
-
-#### [![Outlook](https://img.shields.io/badge/Analytics-Scheduling-0891b2?style=flat-square)](https://github.com/Ara-Alexandrian/Outlook-Extractor) Outlook-Extractor
-
-Post GK procedure analytics dashboard. Outlook integration, physicist workload tracking, event parsing.
-
-`Python` `Flask`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### [![QR](https://img.shields.io/badge/Utility-QR_Codes-ea580c?style=flat-square)](https://github.com/Ara-Alexandrian/qrcodes) QR Code Generator
-
-Branded QR codes for equipment labeling. Batch generation with logo integration.
-
-`Python` `OpenCV`
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<details open>
-<summary><h3><img src="https://img.shields.io/badge/‎-Education_&_Docs-06b6d4?style=flat-square&logo=bookstack&logoColor=white" height="22"/></h3></summary>
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-#### [![DICOM](https://img.shields.io/badge/Education-Workshop-06b6d4?style=flat-square)](https://github.com/Ara-Alexandrian/DICOM-Lecture-MBP_06162026) DICOM-Lecture
-
-Interactive DICOM workshop. Streamlit viewer, Flask dashboard, sample RT datasets.
-
-`Python` `Jupyter`
-
-</td>
-<td width="50%">
-
-#### [![Workflows](https://img.shields.io/badge/Docs-Workflows-6b7280?style=flat-square)](https://github.com/Ara-Alexandrian/GK-workflows) GK-Workflows
-
-Gamma Knife radiosurgery workflow documentation. Mermaid diagrams with glass morphism styling.
-
-`Mermaid` `Markdown`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### [![Collaborator](https://img.shields.io/badge/Collab-Platform-eab308?style=flat-square)](https://github.com/Ara-Alexandrian/Workflow-Collaborator) Workflow-Collaborator
-
-Collaborative workflow annotation platform. Role-based filtering, version control, Claude AI integration.
-
-`Node.js` `Svelte` `MongoDB`
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<details open>
-<summary><h3><img src="https://img.shields.io/badge/‎-Analytics_&_Tracking-0ea5e9?style=flat-square&logo=googleanalytics&logoColor=white" height="22"/></h3></summary>
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-#### [![Calendar](https://img.shields.io/badge/Analytics-Calendar-0ea5e9?style=flat-square)](https://github.com/Ara-Alexandrian/calendar-analysis) Calendar Analysis
-
-ICS file analysis with local LLM categorization. Personnel mapping, filtered timeframe analysis.
-
-`Python` `Ollama`
-
-</td>
-<td width="50%">
-
-#### [![SPT](https://img.shields.io/badge/Tracking-Physics-22c55e?style=flat-square)](https://github.com/Ara-Alexandrian/SPT) SPT
-
-Physics tracking calendar. Event management, analytics dashboard, diagram drawing tool.
-
-`Python` `Streamlit`
-
-</td>
-</tr>
-</table>
-
-</details>
-
----
-
-<div align="center">
-
-## `{ Personal Projects }`
-
-</div>
-
-<details open>
-<summary><h3><img src="https://img.shields.io/badge/‎-AI_&_Automation-8b5cf6?style=flat-square&logo=openai&logoColor=white" height="22"/></h3></summary>
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-#### [![AI](https://img.shields.io/badge/AI-Framework-8b5cf6?style=flat-square)](https://github.com/Ara-Alexandrian/Cerebro-Stack) Cerebro-Stack
-
-AI-assisted development framework. Specialized agents, MCP servers (PostgreSQL, Redis, SSH, Mermaid).
-
-`Node.js` `Python` `Docker`
-
-</td>
-<td width="50%">
-
-#### [![BuJo](https://img.shields.io/badge/Productivity-Journal-10b981?style=flat-square)](https://github.com/Ara-Alexandrian/Cerebro-BuJo) Cerebro-BuJo
-
-Self-hosted bullet journal with Claude AI. Daily automation, habit tracking, PostgreSQL analytics.
-
-`Node.js` `PostgreSQL` `Redis` `Docker`
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<details open>
-<summary><h3><img src="https://img.shields.io/badge/‎-Health_&_Wellness-ec4899?style=flat-square&logo=heart&logoColor=white" height="22"/></h3></summary>
-
-<br>
-
-#### [![Health](https://img.shields.io/badge/Health-Tracking-ec4899?style=flat-square)](https://github.com/Ara-Alexandrian/VCS-tracker) VCS-Tracker
-
-Pharmacokinetic modeling dashboard. Oura Ring integration, therapeutic window analysis.
-
-`Python` `SQLite` `JavaScript`
-
-</details>
-
----
-
-<div align="center">
-
-## `{ Publications }`
-
-</div>
-
-<table align="center">
-<tr>
-<td>
-
-![Paper](https://img.shields.io/badge/›-Paper-4285F4?style=flat-square) **Accuracy of Dose-Volume Metric Calculation for Small-Volume Radiosurgery Targets**
-<br><sub>*International Journal of Medical Physics Research and Practice*, 2020</sub>
-
-![Paper](https://img.shields.io/badge/›-Paper-4285F4?style=flat-square) **An Open-Source Tool to Visualize Potential Cone Collisions While Planning SRS cases**
-<br><sub>*Journal of Applied Clinical Medical Physics*, 2020</sub>
-
-![Paper](https://img.shields.io/badge/›-Paper-4285F4?style=flat-square) **Incorporating Biological Modeling Into Patient-Specific Plan Verification**
-<br><sub>*Journal of Applied Clinical Medical Physics*, 2020</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%"/>
+Open to conversations about clinical tooling, research systems, infrastructure, and strange problems worth mapping.
 
 </div>
