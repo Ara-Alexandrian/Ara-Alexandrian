@@ -20,11 +20,13 @@ I’m a medical physicist who builds software and connects systems. My work move
 
 ## Repository telemetry
 
-| `REPOSITORIES` | `ACTIVE / 90D` | `PRIMARY LANGUAGES` | `PUBLIC / PRIVATE` |
+| `REPOSITORIES` | `MOMENTUM / 90D` | `REPOS TOUCHED` | `SUCCESS CRITERIA` |
 | :---: | :---: | :---: | :---: |
-| **67** | **29** | **10** | **7 / 60** |
+| **67** | **10 / 13 WEEKS** | **19** | **WORKS · STABLE · USEFUL** |
 
-<sub>Point-in-time snapshot of the GitHub portfolio, July 2026. It measures repository activity, not the current scale of production systems.</sub>
+<sub>Point-in-time snapshot, July 2026. Momentum counts weeks with at least one authored, non-merge commit: 240 commits across 19 repositories in the trailing 90 days.</sub>
+
+<sub>Implementation mix: Python at the center, with TypeScript and Svelte, Shell, SQL, C#, notebooks, and TeX appearing where the product needs them.</sub>
 
 > **Repository lifecycle:** GitHub is the lab notebook and incubation layer, not the production inventory. Clinical projects may appear here as historical snapshots; mature work often moves into institutional Git and continues evolving outside this profile.
 
@@ -40,7 +42,7 @@ DICOM processing, CT artifact characterization, dose-volume analysis, plan evalu
 
 ### 03 / Products & infrastructure
 
-SvelteKit, Flask, Streamlit, PostgreSQL, Redis, Docker, Nginx, Azure, Unraid, Windows integration, encrypted data, queues, workers, reverse proxies, and deployment runbooks. I care about the seam between application code and the environment that has to keep it alive.
+From application code to data stores, queues, containers, proxies, cloud hosts, local servers, and Windows integrations. I care about the seam between a product and the environment that has to keep it alive.
 
 ### 04 / Machine-assisted work
 
@@ -109,6 +111,8 @@ INSTRUMENT THE FAILURE MODES
 AUTOMATE THE BORING PARTS
 SHIP THE WHOLE STACK
 ```
+
+Python is my home base. Everything else is a means to an end, selected or agent-assisted according to the problem. Syntax is cheap now. Product judgment is not. The questions I care about are simple: Does it work? Is it efficient? Is it stable? Does it produce the intended output?
 
 > **Fast hands are useful. A long horizon is non-negotiable.**
 
