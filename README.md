@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Ara Alexandrian — medical physicist working across software, systems, and operations" />
+<img src="./assets/profile-header.svg" width="100%" alt="Ara Alexandrian, medical physicist working across software, systems, and operations" />
 
 ### I build at the collision point of physics, software, and operations.
 
-Not just models. Not just interfaces. The whole chain—from a clinical question to the thing that survives production.
+Not just models. Not just interfaces. The whole chain, from a clinical question to the thing that survives production.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ara-alexandrian/)
 [![Email](https://img.shields.io/badge/Email-Say_hello-B7FF3C?style=flat-square&logo=gmail&logoColor=111111)](mailto:ara.n.alexandrian@gmail.com)
@@ -16,7 +16,7 @@ Not just models. Not just interfaces. The whole chain—from a clinical question
 physics → workflow → software → infrastructure → feedback
 ```
 
-I’m a medical physicist who builds software and connects systems. My work moves between treatment-planning research, clinical operations, full-stack products, infrastructure, data pipelines, technical education, and automation. The common thread is not a framework or a language—it is learning the whole system well enough to change it without losing the plot.
+I’m a medical physicist who builds software and connects systems. My work moves between treatment-planning research, clinical operations, full-stack products, infrastructure, data pipelines, technical education, and automation. The common thread is not a framework or a language. It is learning the whole system well enough to change it without losing the plot.
 
 ## Repository telemetry
 
@@ -26,7 +26,7 @@ I’m a medical physicist who builds software and connects systems. My work move
 | :---: | :---: | :---: | :---: |
 | **67** | **29** | **10** | **7 / 60** |
 
-<sub>Point-in-time snapshot of the GitHub portfolio, July 2026. It measures repository activity—not the current scale of production systems.</sub>
+<sub>Point-in-time snapshot of the GitHub portfolio, July 2026. It measures repository activity, not the current scale of production systems.</sub>
 
 > **Repository lifecycle:** GitHub is the lab notebook and incubation layer, not the production inventory. Clinical projects may appear here as historical snapshots; mature work often moves into institutional Git and continues evolving outside this profile.
 
@@ -80,7 +80,7 @@ Gamma Knife workflow systems, coverage models, handoff artifacts, technical cour
 
 ### Agent & compute infrastructure
 
-Custom tooling for persistent mobile coding sessions, MCP tool compression and discovery, browser automation, plugin distribution, multi-device orchestration, and LLM benchmarking across clustered local inference frameworks. The interesting part is not invoking a model—it is designing the system around it.
+Custom tooling for persistent mobile coding sessions, MCP tool compression and discovery, browser automation, plugin distribution, multi-device orchestration, and LLM benchmarking across clustered local inference frameworks. The interesting part is not invoking a model. It is designing the system around it.
 
 `Shell` · `Python` · `TypeScript` · `MCP` · `DGX` · `Docker`
 
@@ -108,7 +108,7 @@ Because sometimes the test bench is a world populated by thousands of simulated 
 
 <img src="./assets/section-rule.svg" width="100%" alt="" />
 
-The portfolio also wanders—deliberately—into personal finance scenario engines, paper-mail classification, biometrics and pharmacokinetic modeling, smart-home systems, personal command centers, manuscript review, and local knowledge infrastructure. Different subject matter; same instinct: map the messy system, make it legible, then build leverage into it.
+The portfolio also wanders deliberately into personal finance scenario engines, paper-mail classification, biometrics and pharmacokinetic modeling, smart-home systems, personal command centers, manuscript review, and local knowledge infrastructure. Different subject matter; same instinct: map the messy system, make it legible, then build leverage into it.
 
 ## Working method
 

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Ara Alexandrian — medical physicist working across software, systems, and operations</title>
+  <title id="title">Ara Alexandrian, medical physicist working across software, systems, and operations</title>
   <desc id="desc">A dark systems-map banner connecting physics, data, infrastructure, operations, and agents around human judgment.</desc>
   <style>
     @keyframes orbit-clockwise { to { transform: rotate(360deg); } }
