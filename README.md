@@ -20,8 +20,6 @@ I’m a medical physicist who builds software and connects systems. My work move
 
 ## Repository telemetry
 
-<img src="./assets/section-rule.svg" width="100%" alt="" />
-
 | `REPOSITORIES` | `ACTIVE / 90D` | `PRIMARY LANGUAGES` | `PUBLIC / PRIVATE` |
 | :---: | :---: | :---: | :---: |
 | **67** | **29** | **10** | **7 / 60** |
@@ -31,8 +29,6 @@ I’m a medical physicist who builds software and connects systems. My work move
 > **Repository lifecycle:** GitHub is the lab notebook and incubation layer, not the production inventory. Clinical projects may appear here as historical snapshots; mature work often moves into institutional Git and continues evolving outside this profile.
 
 ## Operating range
-
-<img src="./assets/section-rule.svg" width="100%" alt="" />
 
 ### 01 / Clinical systems
 
@@ -51,8 +47,6 @@ SvelteKit, Flask, Streamlit, PostgreSQL, Redis, Docker, Nginx, Azure, Unraid, Wi
 Agent orchestration, progressive tool discovery, persistent remote coding sessions, browser automation, document pipelines, and model benchmarking across local inference stacks. Automation is a force multiplier; architecture, constraints, and operational ownership are still the job.
 
 ## Representative problem spaces
-
-<img src="./assets/section-rule.svg" width="100%" alt="" />
 
 ### GearVue · clinical equipment operations
 
@@ -86,8 +80,6 @@ Custom tooling for persistent mobile coding sessions, MCP tool compression and d
 
 ## Public signals
 
-<img src="./assets/section-rule.svg" width="100%" alt="" />
-
 ### [CT Metal Artifact Characterization](https://github.com/Ara-Alexandrian/DO_DD)
 
 Multi-planar CT artifact detection, adaptive segmentation, visual quality checks, and research-ready exports for dataset development.
@@ -106,13 +98,9 @@ Because sometimes the test bench is a world populated by thousands of simulated 
 
 ## Off-axis experiments
 
-<img src="./assets/section-rule.svg" width="100%" alt="" />
-
 The portfolio also wanders deliberately into personal finance scenario engines, paper-mail classification, biometrics and pharmacokinetic modeling, smart-home systems, personal command centers, manuscript review, and local knowledge infrastructure. Different subject matter; same instinct: map the messy system, make it legible, then build leverage into it.
 
 ## Working method
-
-<img src="./assets/section-rule.svg" width="100%" alt="" />
 
 ```text
 OBSERVE THE SYSTEM
@@ -125,8 +113,6 @@ SHIP THE WHOLE STACK
 > **Fast hands are useful. A long horizon is non-negotiable.**
 
 ## Publications
-
-<img src="./assets/section-rule.svg" width="100%" alt="" />
 
 | Year | Peer-reviewed publication |
 | :---: | :--- |
