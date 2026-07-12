@@ -20,11 +20,13 @@ I’m a medical physicist who builds software and connects systems. My work move
 
 ## Repository telemetry
 
-| `REPOSITORIES` | `ACTIVE / 90D` | `PUBLIC / PRIVATE` | `SUCCESS CRITERIA` |
+| `REPOSITORIES` | `MOMENTUM / 90D` | `REPOS TOUCHED` | `SUCCESS CRITERIA` |
 | :---: | :---: | :---: | :---: |
-| **67** | **29** | **7 / 60** | **WORKS · STABLE · USEFUL** |
+| **67** | **10 / 13 WEEKS** | **19** | **WORKS · STABLE · USEFUL** |
 
-<sub>Point-in-time snapshot of the GitHub portfolio, July 2026. It measures repository activity, not the current scale of production systems.</sub>
+<sub>Point-in-time snapshot, July 2026. Momentum counts weeks with at least one authored, non-merge commit: 240 commits across 19 repositories in the trailing 90 days.</sub>
+
+<sub>Implementation mix: Python at the center, with TypeScript and Svelte, Shell, SQL, C#, notebooks, and TeX appearing where the product needs them.</sub>
 
 > **Repository lifecycle:** GitHub is the lab notebook and incubation layer, not the production inventory. Clinical projects may appear here as historical snapshots; mature work often moves into institutional Git and continues evolving outside this profile.
 
