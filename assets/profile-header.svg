@@ -1,6 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Ara Alexandrian — medical physicist working across software, systems, and operations</title>
   <desc id="desc">A dark systems-map banner connecting physics, data, infrastructure, operations, and agents around human judgment.</desc>
+  <style>
+    @keyframes orbit-clockwise { to { transform: rotate(360deg); } }
+    @keyframes orbit-counter { to { transform: rotate(-360deg); } }
+    @keyframes scan-field {
+      0%, 100% { transform: translateY(-105px); opacity: 0; }
+      12% { opacity: .12; }
+      50% { opacity: .34; }
+      88% { opacity: .12; }
+    }
+    @keyframes breathe {
+      0%, 100% { transform: scale(.96); opacity: .16; }
+      50% { transform: scale(1.08); opacity: .42; }
+    }
+    @keyframes travel { to { stroke-dashoffset: -64; } }
+    .orbit-a { transform-box: fill-box; transform-origin: center; animation: orbit-clockwise 140s linear infinite; }
+    .orbit-b { transform-box: fill-box; transform-origin: center; animation: orbit-counter 190s linear infinite; }
+    .scan { animation: scan-field 28s ease-in-out infinite; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: breathe 9s ease-in-out infinite; }
+    .travel { animation: travel 22s linear infinite; }
+    @media (prefers-reduced-motion: reduce) {
+      .orbit-a, .orbit-b, .scan, .pulse, .travel { animation: none; }
+    }
+  </style>
   <defs>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
       <path d="M28 0H0V28" fill="none" stroke="#8CA0B3" stroke-width="0.6" opacity="0.13"/>
@@ -13,10 +36,12 @@
       <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <clipPath id="system-field"><circle r="122"/></clipPath>
   </defs>
 
   <rect width="1200" height="420" rx="14" fill="#07090C"/>
   <rect width="1200" height="420" rx="14" fill="url(#grid)"/>
+  <path class="travel" d="M76 326H508" fill="none" stroke="#64D8FF" stroke-width="1" stroke-dasharray="2 14" opacity="0.32"/>
   <path d="M0 30H1200M0 390H1200" stroke="#B7FF3C" stroke-width="2" opacity="0.75"/>
   <path d="M46 0V420M1154 0V420" stroke="#FF4D8D" stroke-width="1" opacity="0.45"/>
 
@@ -31,8 +56,21 @@
   </g>
 
   <g transform="translate(845 211)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <circle r="126" fill="#0B0F14" stroke="#8CA0B3" stroke-width="1" stroke-dasharray="3 7" opacity="0.9"/>
+    <circle r="126" fill="#0B0F14" opacity="0.95"/>
+    <g class="orbit-a">
+      <circle r="126" fill="none" stroke="#8CA0B3" stroke-width="1" stroke-dasharray="3 7" opacity="0.9"/>
+      <circle cx="0" cy="-126" r="3.5" fill="#FFB000" filter="url(#glow)"/>
+    </g>
     <circle r="78" fill="none" stroke="#64D8FF" stroke-width="1" opacity="0.35"/>
+    <g class="orbit-b">
+      <circle cx="78" cy="0" r="3" fill="#64D8FF" filter="url(#glow)"/>
+      <circle cx="-78" cy="0" r="2" fill="#FF4D8D"/>
+    </g>
+    <g clip-path="url(#system-field)">
+      <line class="scan" x1="-116" y1="0" x2="116" y2="0" stroke="#64D8FF" stroke-width="1.5"/>
+      <rect class="scan" x="-116" y="0" width="232" height="28" fill="#64D8FF" opacity="0.025"/>
+    </g>
+    <circle class="pulse" r="45" fill="#B7FF3C" opacity="0.16"/>
     <circle r="33" fill="#10151B" stroke="url(#acid)" stroke-width="2" filter="url(#glow)"/>
     <text x="0" y="-5" fill="#F5F7FA" font-size="10" text-anchor="middle" letter-spacing="1">HUMAN</text>
     <text x="0" y="9" fill="#F5F7FA" font-size="10" text-anchor="middle" letter-spacing="1">JUDGMENT</text>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="20" viewBox="0 0 1000 20" role="img" aria-label="Section divider">
+  <rect width="1000" height="20" fill="none"/>
+  <path d="M0 10H1000" stroke="#27303A" stroke-width="1"/>
+  <path d="M0 10H112" stroke="#B7FF3C" stroke-width="2"/>
+  <path d="M124 4V16M134 6V14" stroke="#FF4D8D" stroke-width="2"/>
+  <path d="M148 10H256" stroke="#64D8FF" stroke-width="1" stroke-dasharray="3 7" opacity="0.72"/>
+  <g fill="#8CA0B3" opacity="0.7">
+    <circle cx="950" cy="10" r="2"/><circle cx="964" cy="10" r="2"/><circle cx="978" cy="10" r="2"/>
+  </g>
+  <path d="M988 5V15M994 7V13" stroke="#FFB000" stroke-width="1.5"/>
+</svg>
